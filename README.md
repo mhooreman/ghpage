@@ -1,4 +1,4 @@
-# ghpage
+# mhooreman.github.io
 
 My personal GitHub page
 
